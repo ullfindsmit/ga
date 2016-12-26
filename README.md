@@ -5,6 +5,6 @@ To add this to your current website, download the javascript file and save it on
 Then, on your code, simply include the javascript in your HTML 
 
 Example:
-<script src="public-url-to-the-file/SimpleScroll.js"></script>
+&lt;script src="public-url-to-the-file/SimpleScroll.js"&gt;&lt;/script&gt;
 
 That is it.
