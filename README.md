@@ -10,6 +10,6 @@ Example:
 
 That is it.
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VBVFWP85TTM4A">
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=VBVFWP85TTM4A" target="_blank">
 	Buy me a BEER
 </a>
